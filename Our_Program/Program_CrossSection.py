@@ -113,4 +113,4 @@ if __name__ == '__main__':
     root_dir = "/home/zhd"
     program_dir = root_dir + '/cs_smodels_test'
     slha_dir = root_dir + '/cs_smodels_test/InputsForProspino/A' 
-    cross_section(_1st, _2nd, _3rd, _4th, _5th, _6th, _7th, _8th)
+    cross_section(1, 31, 31, 36, 36, 41, 41, 49)  
